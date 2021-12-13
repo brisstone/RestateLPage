@@ -1,0 +1,132 @@
+
+
+.features{
+    /* width: 1170px; */
+height: 551px;
+/* margin-left: 135px; */
+margin-top: 123px;
+   
+}
+
+.features-heading{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: center;
+}
+
+.feature-heading-title{
+    /* width: 425px; */
+height: 55px;
+
+font-family: Manrope;
+font-style: normal;
+font-weight: 600;
+font-size: 2rem;
+line-height: 55px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+
+.features-links{
+    display: flex;
+    column-gap: 5rem;
+    text-decoration: none;
+    align-content: flex-start;
+    text-align: left;
+    align-items: flex-start;
+    justify-content: flex-start;
+
+}
+
+
+.features-link.first{
+    border-bottom: 1px red solid;
+}
+.features-link {
+    text-decoration: none;
+   
+    padding-bottom: 0.5rem;
+  
+    color: #000000;
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 19px;
+    line-height: 26px;
+    width: 178px;
+    height: 26px;
+    text-align: left;
+    
+color: #000000
+}
+
+.features-buttton{
+    background: #F85A47;
+box-shadow: 0px 100px 80px rgba(248, 90, 71, 0.07), 0px 64.8148px 46.8519px rgba(248, 90, 71, 0.0531481), 0px 38.5185px 25.4815px rgba(248, 90, 71, 0.0425185), 0px 20px 13px rgba(248, 90, 71, 0.035), 0px 8.14815px 6.51852px rgba(248, 90, 71, 0.0274815), 0px 1.85185px 3.14815px rgba(248, 90, 71, 0.0168519);
+border-radius: 5px;
+/* width: 200px; */
+height: 65px;
+color: white;
+}
+
+.feature-heading-text{
+    text-align: left;
+    width: 470px;
+    height: 48px;
+   
+    margin-top: 3rem;
+
+    font-family: Manrope;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+/* or 150% */
+
+
+color: #000000;
+}
+
+.features-routes-links{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    text-align: left;
+    padding: 0px;
+    margin-left: -3.4rem;
+    margin-bottom: 5rem;
+    margin-top: 2rem;
+
+ 
+   
+   
+}
+
+
+.feat-link{
+text-align: left;
+
+
+}
+
+.feature-route-pages{
+    width: 3rem;
+    
+}
+
+
+.route-pgs{
+    /* height: 300px;
+    width: 300px; */
+}
+
+
+.feature-pages{
+    display: flex;
+    justify-content: flex-start;
+    align-content: flex-start;
+}

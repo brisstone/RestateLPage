@@ -1,0 +1,27 @@
+.feature-cta{
+    width: 100%;
+}
+
+.feature-cta-title{
+    font-family: Manrope;
+font-style: normal;
+font-weight: bold;
+font-size: 17px;
+line-height: 23px;
+
+color: #000000;
+font-weight: 700;
+margin-top: 2rem;
+}
+
+
+.feature-cta-text{
+    font-family: Manrope;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+line-height: 23px;
+
+color: #545A58;
+font-weight: 200;
+}

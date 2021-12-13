@@ -1,0 +1,30 @@
+.works{
+    margin-top: 14rem;
+    width: 100%;
+}
+
+
+.works-content{
+    display: flex;
+    flex-direction: row;
+    /* background-color: tomato; */
+    justify-content: center;
+    align-items: center;
+    row-gap: 4rem;
+    column-gap: 3rem;
+
+}
+
+
+
+.works-title {
+    font-family: Manrope;
+font-style: normal;
+font-weight: 600;
+/* font-size: 31px; */
+line-height: 42px;
+
+color: #000000;
+margin-top: 2.32rem;;
+
+}

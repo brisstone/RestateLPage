@@ -1,0 +1,76 @@
+
+.feature{
+    width: 80%;
+}
+
+
+
+.feature-card{
+    display: flex ;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    width: 35rem;
+    height: 263px;
+    
+    /* background-color: yellow; */
+    margin-top: 0;
+    padding-top: 0;
+ }
+    
+.feature-icon-body{
+        height: 9rem;
+        width: 9rem;
+        /* background-color: tomato; */
+        place-self: center;
+        border-radius: 15px;
+       /* background-image: url('/src/images/Icon.png'); */
+       /* background-repeat: no-repeat; */
+        /* padding-top: 10%; */
+        display: flex;
+        justify-content: center;
+        box-shadow: 0px 100px 80px rgba(77, 223, 253, 0.07), 0px 64.8148px 46.8519px rgba(77, 223, 253, 0.0531481), 0px 38.5185px 25.4815px rgba(77, 223, 253, 0.0425185), 0px 20px 13px rgba(77, 223, 253, 0.035), 0px 8.14815px 6.51852px rgba(77, 223, 253, 0.0274815), 0px 1.85185px 3.14815px rgba(77, 223, 253, 0.0168519);
+
+}
+
+
+.feature-icon{
+    place-self: center;
+    /* align-self: center; */
+    /* margin: 0 auto;   */
+}
+
+
+.feature-text-content{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 26px;
+/* or 162% */
+
+text-align: center;
+
+color: #333333;
+width: 24rem;;
+height: 7.8rem;
+place-self: center;
+}
+
+.feature-title-content{
+    font-family: Manrope;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 30px;
+/* identical to box height */
+
+text-align: center;
+
+color: #000000;
+/* width: 180px; */
+height: 3rem;
+place-self: center;
+margin-top: 2rem;
+margin-bottom: 2rem;
+}
